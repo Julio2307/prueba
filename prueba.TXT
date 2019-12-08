@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Saludo esto es una prueba. 
 
 Como estan todos
 
 Chevewre
+=======
+Saludo a todos
+>>>>>>> 6c2a80f608e89851b0839357f4d5a0190c144327
+
+Todo bien
